@@ -7,5 +7,5 @@
 ##Q2
 -JavaScript to use const keyword, and the spread operator.
 
-##3
+##Q3
 -Create a basic JavaScript module that exports a function that calculates the area of a rectangle.
